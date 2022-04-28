@@ -1,2 +1,10 @@
 # Habitual-app-test
-Figma Project to learn UI/UX basics
+
+DEVELOPED USING
+a. Figma
+b. HTML
+c. CSS
+
+
+
+
