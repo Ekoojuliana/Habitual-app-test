@@ -1,10 +1,6 @@
 # Habitual-app-test
 
-DEVELOPED USING
-
-a. Figma
-b. HTML
-c. CSS
+Habitual App UI was designed using Figma.
 
 
 
